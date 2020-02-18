@@ -86,8 +86,8 @@
 		]
 		Inventory:
 		[
-			*ItemStack*
-			....
+		    *ItemStack*
+		    ....
 		]
 	}
 }
